@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou o Lucas Nunes!</h1>
+<h1 align="center">Olá 👋, Eu sou Lucas Nunes</h1>
 <h3 align="center">Engenheiro Eletricista em transição de carreira para DEV.</h3>
 
 - 🌱 Atualmente estou aprendendo: **Java orientado a objeto**
@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lucas-nunes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucas-nunes/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/lucas-nunes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lucas-nunes" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
