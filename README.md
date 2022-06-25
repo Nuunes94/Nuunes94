@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou Lucas Nunes</h1>
 <h3 align="center">Engenheiro Eletricista em transição de carreira para DEV.</h3>
 
-- 🌱 Atualmente estou aprendendo: **Java orientado a objeto**
+- 🌱 Atualmente estou aprendendo: **Java orientado a objeto e QA!**
 
 - 📫 Entre em contato: **lucanunes.9403@gmail.com**
 
